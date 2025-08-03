@@ -67,4 +67,4 @@ We may update this Privacy Policy from time to time. Changes will be posted here
 
 If you have any questions or concerns about this policy, feel free to contact us:
 
-📧 **anilkaracan.dev@gmail.com**
+📧 **aanilkaracann@gmail.com**
