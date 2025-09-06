@@ -1,70 +1,70 @@
-# Privacy Policy
+# Gizlilik Politikası  
 
-**Effective Date:** July 13, 2025
+**Yürürlük Tarihi:** 13 Temmuz 2025  
 
-**Sherlocked Stories** ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
-
----
-
-## 1. Information We Collect
-
-We do **not** collect any personal information directly through our app. However, our app uses third-party services that may collect information used to identify you.
-
-### Third-Party Services:
-We use **Google AdMob** to display advertisements. AdMob may collect information such as:
-
-- Device information (e.g., OS, model, advertising ID)
-- Usage data (e.g., ad interactions)
-- Location (if enabled by your device settings)
-
-Please refer to [Google's Privacy Policy](https://policies.google.com/privacy) for more details on how Google handles user data.
+**Sherlocked Stories** ("biz", "bizim" veya "uygulama") gizliliğinize saygı duyar. Bu Gizlilik Politikası, mobil uygulamamızı kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.  
 
 ---
 
-## 2. How We Use Information
+## 1. Topladığımız Bilgiler  
 
-We do not use or store your personal information.
+Uygulamamız aracılığıyla **doğrudan herhangi bir kişisel bilgi toplamıyoruz**. Ancak, uygulamamız sizin kimliğinizi belirleyebilecek bilgileri toplayabilen üçüncü taraf hizmetler kullanmaktadır.  
 
-Any data collected by third-party services like AdMob is used solely for:
+### Üçüncü Taraf Hizmetler:  
+Uygulamada reklam göstermek için **Google AdMob** kullanıyoruz. AdMob aşağıdaki bilgileri toplayabilir:  
 
-- Displaying relevant ads
-- Preventing fraud and abuse
-- Improving advertising performance
+- Cihaz bilgileri (ör. işletim sistemi, model, reklam kimliği)  
+- Kullanım verileri (ör. reklam etkileşimleri)  
+- Konum (cihaz ayarlarından izin verilmişse)  
 
----
-
-## 3. Data Retention
-
-Since we do not collect or store any personal data, we do not retain any information on our servers.
+Google’ın kullanıcı verilerini nasıl işlediğini öğrenmek için lütfen [Google Gizlilik Politikası](https://policies.google.com/privacy) sayfasını inceleyin.  
 
 ---
 
-## 4. Security
+## 2. Bilgileri Nasıl Kullanıyoruz  
 
-We do not process or store any sensitive user data ourselves. However, we encourage users to review the privacy policies of third-party services used within our app.
+Biz herhangi bir kişisel bilgiyi kullanmıyor veya saklamıyoruz.  
 
----
+Üçüncü taraf hizmetler (ör. AdMob) tarafından toplanan veriler yalnızca şu amaçlarla kullanılmaktadır:  
 
-## 5. Children's Privacy
-
-Our app is not directed toward children under the age of 13. We do not knowingly collect personal information from children. If you believe your child has provided us with personal data, please contact us, and we will take steps to delete such information.
-
----
-
-## 6. Your Consent
-
-By using **Sherlocked Stories**, you consent to this Privacy Policy and the collection and use of information by third-party services such as Google AdMob.
+- İlgili reklamları göstermek  
+- Dolandırıcılık ve kötüye kullanımın önlenmesi  
+- Reklam performansının iyileştirilmesi  
 
 ---
 
-## 7. Changes to This Policy
+## 3. Veri Saklama  
 
-We may update this Privacy Policy from time to time. Changes will be posted here and reflected by the "Effective Date" above. Continued use of the app indicates your acceptance of the revised policy.
+Herhangi bir kişisel veri toplamadığımız veya saklamadığımız için kendi sunucularımızda hiçbir bilgi tutmuyoruz.  
 
 ---
 
-## 8. Contact Us
+## 4. Güvenlik  
 
-If you have any questions or concerns about this policy, feel free to contact us:
+Kendi başımıza hassas kullanıcı verilerini işlemiyor veya saklamıyoruz. Ancak, uygulamamızda kullanılan üçüncü taraf hizmetlerin gizlilik politikalarını incelemenizi tavsiye ederiz.  
 
-📧 **aanilkaracann@gmail.com**
+---
+
+## 5. Çocukların Gizliliği  
+
+Uygulamamız 13 yaş altındaki çocuklara yönelik değildir. Çocuklardan bilerek kişisel bilgi toplamıyoruz. Eğer çocuğunuzun bize kişisel bilgi sağladığını düşünüyorsanız, lütfen bizimle iletişime geçin. Bu durumda söz konusu bilgiyi silmek için gerekli adımları atacağız.  
+
+---
+
+## 6. Onayınız  
+
+**Sherlocked Stories** uygulamasını kullanarak, bu Gizlilik Politikasını ve Google AdMob gibi üçüncü taraf hizmetler tarafından yapılan bilgi toplama ve kullanımı kabul etmiş olursunuz.  
+
+---
+
+## 7. Bu Politikadaki Değişiklikler  
+
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikler burada yayımlanacak ve yukarıdaki "Yürürlük Tarihi" ile belirtilecektir. Uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.  
+
+---
+
+## 8. İletişim  
+
+Bu politika hakkında herhangi bir sorunuz veya endişeniz olursa bizimle iletişime geçebilirsiniz:  
+
+📧 **aanilkaracann@gmail.com**  
